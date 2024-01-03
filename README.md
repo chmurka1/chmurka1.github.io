@@ -2,6 +2,10 @@
 
 ## C++ tools I like
 
+### Development tools 
+
+* [gdbgui](https://github.com/cs01/gdbgui) – graphical interface for GNU Debugger
+
 ### Useful boost libraries
 
 * [asio](https://github.com/boostorg/asio) — asynchronous programming and networking
@@ -19,5 +23,6 @@
 * [Box2D](https://github.com/erincatto/box2d) – 2D physics
 * [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page) – linear algebra
 * [entt]( https://github.com/skypjack/entt) – entity component system with template metaprogramming
+* [imgui](https://github.com/ocornut/imgui) – simple, easily integrable GUI
 * [liquidfun](https://github.com/google/liquidfun) – 2D fluid dynamics, unmaintained since 2014
 * [SFML](https://github.com/SFML/SFML) – 2D games and multimedia
