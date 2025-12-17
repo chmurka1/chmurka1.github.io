@@ -1,0 +1,15 @@
+{
+  "name": "wgpu_cube",
+  "type": "module",
+  "version": "0.1.0",
+  "files": [
+    "wgpu_cube_bg.wasm",
+    "wgpu_cube.js",
+    "wgpu_cube.d.ts"
+  ],
+  "main": "wgpu_cube.js",
+  "types": "wgpu_cube.d.ts",
+  "sideEffects": [
+    "./snippets/*"
+  ]
+}
